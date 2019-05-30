@@ -1,8 +1,8 @@
 html {
   background-color: blueviolet;
 }
-
 h1 {
-  font-size: 72px;
-  color: yellow;
+  color: #BADA55;
+  background: black;
+  font-family: monospace;
 }
